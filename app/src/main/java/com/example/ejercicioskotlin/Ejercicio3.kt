@@ -1,5 +1,7 @@
 package com.example.ejercicioskotlin
 
+/** Conversor de temperatura **/
+
 const val DEGREES_CELSIUS = "Celsius"
 const val DEGREES_FAHRENHEIT = "Fahrenheit"
 const val DEGREES_KELVIN = "Kelvin"

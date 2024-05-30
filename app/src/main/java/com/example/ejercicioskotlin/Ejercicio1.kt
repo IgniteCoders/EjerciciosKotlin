@@ -1,5 +1,7 @@
 package com.example.ejercicioskotlin
 
+/** Notificaciones móviles **/
+
 fun main() {
     val morningNotification = 58
     val eveningNotification = 135
