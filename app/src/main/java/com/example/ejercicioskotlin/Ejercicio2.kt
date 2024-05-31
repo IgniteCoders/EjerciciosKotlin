@@ -38,6 +38,14 @@ fun main() {
 }*/
 
 // Ejemplo con when
+/**
+ * Calcula el precio de la entrada segun la edad y si es lunes
+ *
+ * @param age la edad
+ * @param isMonday si es lunes o no
+ *
+ * @return El precio de la entrada
+ */
 fun ticketPrice(age: Int, isMonday: Boolean): Int {
     return when (age) {
         in 0..12 -> 15
